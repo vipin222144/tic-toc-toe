@@ -1,0 +1,45 @@
+  @media (max-width: 1000px) {
+       body{
+        background: rgb(214, 20, 188); /* just for testing */
+    }
+    #msg{
+        font-size: 50px;
+        padding-top: 55px;
+        padding-bottom: 10px;
+    }
+    .box{
+        height: 300px;
+        width: 25vmin;
+        font-size: 215px;
+
+    }
+    .game{
+        width: 80vmin;
+        height: 80vmin;
+    }
+    .msg-container{
+        padding-top: 200px;
+        position: absolute;
+        left: 20%;
+        font-size: 50px;
+    }
+    h1{
+        font-size: 90px;
+        padding-top: 50px;
+        color: aliceblue;
+    }
+    #name{
+        font-size: 60px;
+        color: aliceblue;
+    }
+    #reset{
+        height: 90px;
+        width: 300px;
+        font-size: 40px;
+    }
+    #new-btn{
+        height: 90px;
+        width: 300px;
+        font-size: 40px; 
+    }
+}
